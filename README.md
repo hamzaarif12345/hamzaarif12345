@@ -9,3 +9,4 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on real life projects
 - 📫 How to reach me: https://in.linkedin.com/in/hamza-arif-39000122
+- 📁 My portfolio link is :https://hamzaarif12345.github.io/sample2/portfolio.html
