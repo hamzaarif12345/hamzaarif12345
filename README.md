@@ -22,7 +22,7 @@ Here are some ideas to get you started:-->
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaarif12345&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaarif12345&theme=radical)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaarif12345&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaarif12345&show_icons=true&theme=radical)-->
