@@ -27,5 +27,7 @@ Here are some ideas to get you started:-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaarif12345&theme=radical)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaarif12345&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Trophies
+<img src = "https://github-profile-trophy.vercel.app/?username=hamzaarif12345&theme=dark" />
 <!--![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaarif12345&show_icons=true&theme=radical)-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaarif12345&theme=dracula" />-->
