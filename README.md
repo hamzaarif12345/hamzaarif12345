@@ -10,9 +10,9 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on real life projects
 <!--- 📫 How to reach me: [https://in.linkedin.com/in/hamza-arif-39000122](https://in.linkedin.com/in/hamza-arif-390001222)-->
 - 📫 How to reach me: <a href="https://in.linkedin.com/in/hamza-arif-390001222">Linkedin</a>
-- 📁 My portfolio link is: <a href="https://hamzaarif12345.github.io/sample2/portfolio.html">this</a>
+- 📁 <a href="https://hamzaarif12345.github.io/sample2/portfolio.html"> My Portfolio</a>
 -  🔗 Try out my blog website: https://generative-ai-intro.vercel.app/
-- 🔗 Try out my Quiz website: https://hamzaarif12345.github.io/sample2/Quiz_website.html
+<!--- 🔗 Try out my Quiz website: https://hamzaarif12345.github.io/sample2/Quiz_website.html-->
 
 
 
