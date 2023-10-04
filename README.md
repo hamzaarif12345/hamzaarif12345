@@ -8,6 +8,8 @@ Here are some ideas to get you started:-->
 - 🔭 I’m interested in AI & ML, Web Development, Data Structures and Algorithms as well
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on real life projects
+
+### Links 🔗
 - 📫 <a href="https://in.linkedin.com/in/hamza-arif-390001222"> My Linkedin</a>
 - 📁 <a href="https://hamzaarif12345.github.io/sample2/portfolio.html"> My Portfolio</a>
 - 🔗 <a href="https://generative-ai-intro.vercel.app/"> Blog Website</a>
