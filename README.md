@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on real life projects
 - 📫 <a href="https://in.linkedin.com/in/hamza-arif-390001222"> My Linkedin</a>
 - 📁 <a href="https://hamzaarif12345.github.io/sample2/portfolio.html"> My Portfolio</a>
--  🔗 <a href="https://generative-ai-intro.vercel.app/"> Blog Website</a>
+- 🔗 <a href="https://generative-ai-intro.vercel.app/"> Blog Website</a>
 <!--- 🔗 Try out my Quiz website: https://hamzaarif12345.github.io/sample2/Quiz_website.html-->
 <!--- 📫 How to reach me: [https://in.linkedin.com/in/hamza-arif-39000122](https://in.linkedin.com/in/hamza-arif-390001222)-->
 
