@@ -8,9 +8,9 @@ Here are some ideas to get you started:-->
 - 🔭 I’m interested in AI & ML, Web Development, Data Structures and Algorithms as well
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on real life projects
-- 📫 How to reach me: <a href="https://in.linkedin.com/in/hamza-arif-390001222">Linkedin</a>
+- 📫 <a href="https://in.linkedin.com/in/hamza-arif-390001222"> My Linkedin</a>
 - 📁 <a href="https://hamzaarif12345.github.io/sample2/portfolio.html"> My Portfolio</a>
--  🔗 Try out my blog website: https://generative-ai-intro.vercel.app/
+-  🔗 <a href="https://generative-ai-intro.vercel.app/"> Blog Website</a>
 <!--- 🔗 Try out my Quiz website: https://hamzaarif12345.github.io/sample2/Quiz_website.html-->
 <!--- 📫 How to reach me: [https://in.linkedin.com/in/hamza-arif-39000122](https://in.linkedin.com/in/hamza-arif-390001222)-->
 
