@@ -29,6 +29,12 @@ Here are some ideas to get you started:-->
 ### 👩‍💻 IDE
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
+###Skills
+- Solid understanding of web development fundamentals, including HTML, CSS, JavaScript, and MySQL.
+- Proficiency in Python syntax, databases, OOP, debugging, and frameworks.
+- Familiarity with version control software such as Git for collaborative development.
+- Knowledge of basic architectural concepts relevant to web development, including background job processing.
+- Strong problem-solving skills and the ability to learn new technologies quickly.
 
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaarif12345&theme=radical)](https://git.io/streak-stats)<br>
