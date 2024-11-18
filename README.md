@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 - 👋 I'm Hamza Arif
 - 🔭 I’m interested in AI & ML, Web Development, Data Structures and Algorithms as well
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently working as Assosiate Software Engineer at NCS India.
 - 👯 I’m looking to collaborate on real life projects
 - 👯 I'm interested in startup and business so if u want to hire me DM ASAP!!
 
