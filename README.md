@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 - 👋 I'm Hamza Arif
 - 💻 Currently working as Associate Software Engineer at NCS India.
-- 🔭 Interested in AI & ML, Web Development, Data Structures and Algorithms as well
+- 🔭 Interested in AI & ML, Full Stack Development, Data Structures and Algorithms as well
 - 👯 Interested in startup and business as well, so if u want to hire me DM ASAP!!
 
 ### Links 🔗
