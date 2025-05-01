@@ -5,9 +5,13 @@
 
 Here are some ideas to get you started:-->
 - 👋 I'm Hamza Arif
-- 💻 Currently working as Associate Software Engineer at NCS India.
+- 🏢 Currently working as Associate Software Engineer at NCS India.
+- 💻 My current tech stack include C#, .NET Framework, Entity Framework, .NET MVC, Azure DevOps Server and Microsoft SQL Server.
+- 💻Previously had worked on Java, Selenium, Postman, Cucumber and RestAssured.
+- 💻Had completed my internship with tech stack comprising of Django, MongoDB, HTML 5 and CSS 3 at Tech Mahindra.
 - 🔭 Interested in AI & ML, Full Stack Development, Data Structures and Algorithms as well
 - 👯 Interested in startup and business as well, so if u want to hire me DM ASAP!!
+
 
 ### Links 🔗
 - 📫 <a href="https://in.linkedin.com/in/hamza-arif-390001222"> My Linkedin</a>
