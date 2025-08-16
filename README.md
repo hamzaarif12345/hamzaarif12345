@@ -17,12 +17,12 @@ Here are some ideas to get you started:-->
 ### Links 🔗
 - 📫 <a href="https://in.linkedin.com/in/hamza-arif-390001222"> My Linkedin</a>
 - 📁 <a href="https://hamzaarif12345.github.io/sample2/portfolio.html"> My Portfolio</a>
-- 🔗 <a href="https://generative-ai-intro.vercel.app/"> Blog Website</a>
+<!--- 🔗 <a href="https://generative-ai-intro.vercel.app/"> Blog Website</a>-->
 <!--- 🔗 Try out my Quiz website: https://hamzaarif12345.github.io/sample2/Quiz_website.html-->
 <!--- 📫 How to reach me: [https://in.linkedin.com/in/hamza-arif-39000122](https://in.linkedin.com/in/hamza-arif-390001222)-->
 
 
-
+<!--
 ### 👩‍💻 Tech Stack
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <br>
@@ -40,11 +40,14 @@ Here are some ideas to get you started:-->
 - Familiarity with version control software such as Git for collaborative development.
 - Knowledge of basic architectural concepts relevant to web development, including background job processing.
 - Strong problem-solving skills and the ability to learn new technologies quickly.
+-->
+
+
 
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaarif12345&theme=radical)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaarif12345&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaarif12345&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>-->
+![Profile Views](https://komarev.com/ghpvc/?username=hamzaarif12345&color=blue)
 <!-- link :https://github.com/Ileriayo/markdown-badges-->
 <!--### Trophies-->
 <!--<img src = "https://github-profile-trophy.vercel.app/?username=hamzaarif12345&theme=dark" />-->
